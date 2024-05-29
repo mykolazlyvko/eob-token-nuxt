@@ -1,0 +1,73 @@
+{
+    "general": {
+        "talk": "Nói chuyện",
+        "blockchain": "Blockchain",
+        "get_rewards": "Nhận Phần Thưởng",
+        "stake": "Đặt Cược",
+        "total_supply": "Tổng Cung",
+        "our_partners": "Đối Tác Của Chúng Tôi",
+        "airdrop": "Phát Mãi",
+        "pre_register": "Đăng Ký Trước",
+        "heartbeat": "Nhịp Tim",
+        "bitcoin": "Bitcoin",
+        "crypto": "Tiền Kỹ Thuật Số",
+        "you": "Bạn"
+    },
+    "banner": {
+        "earn_text": "KIẾM MỘT, ĐỐT MỘT",
+        "eobo_description": "<span class='font-bold'>eobo</span> là một động cơ tiếp thị tự động, được cộng đồng thúc đẩy, xây dựng trên blockchain.",
+        "coming_soon": "Sắp Ra Mắt",
+        "leaderboard_title": "Được thiết kế đặc biệt cho những người trẻ dũng cảm và đầy tầm nhìn của ngày nay!",
+        "view_top_leaderboard": "Xem Bảng Xếp Hạng Top 100"
+    },
+    "pre-register": {
+        "early_access": "Truy Cập Sớm",
+        "invite_code_issued_today": "mã mời được phát hành hôm nay",
+        "description_title": "Airdrop dựa trên giới thiệu và đặt cược!",
+        "description_content": "Kết nối ví của bạn<br/>Thêm tài khoản X và Discord của bạn<br/>Tham gia cộng đồng của chúng tôi<br/>Mời bạn bè với mã cá nhân của bạn"
+    },
+    "stake": {
+        "title": "Ra mắt công bằng với một mô hình STAKING độc đáo",
+        "description": "100% công bằng và tập trung vào cộng đồng",
+        "up_to": "Lên Đến",
+        "rewards_apy": "rewards apy cho người dùng",
+        "donation_apy": "DONATION APY DEVELOPMENT"
+    },
+    "workflow": {
+        "how_it_works": "Cách Thức Hoạt Động",
+        "description": "<span class='font-bold'>eobo</span> liên kết mượt mà tài khoản X, Discord, và Telegram của bạn với một ví tiền điện tử, xây dựng giá trị nội tại. <span class='font-bold'>Heartbeat</span> tổng hợp tất cả các hành động và phân phối <span class='font-bold'>Burn Points</span>, phản ánh sự tham gia của cộng đồng.<br/><br/>Càng lớn sự tương tác của bạn VÀ <span class='font-bold'>đặt cược</span>, càng nhiều điểm Burn bạn tích luỹ.<br/><br/>Nghi lễ hàng tuần của chúng tôi, <span class='font-bold'>Sunday Burnday</span>, liên quan đến việc đốt cháy nguồn cung phối theo đồng bộ với những điểm kiếm được này, tạo ra một chu kỳ <span class='font-bold'>tăng giá trị vĩnh viễn</span>."
+    },
+    "tokenSupply": {
+        "earn_burn": "Kiếm & Đốt",
+        "liquidity": "Thanh Khoản (DEX)",
+        "the_token": "Token",
+        "desc1": "40% MỞ KHÓA TẠI TGE",
+        "desc2": "KHÔNG CÓ PHÂN BỔ ĐỘI NGŨ HOẶC NHÀ ĐẦU TƯ",
+        "desc3": "30% KIẾM + 30% ĐỐT "
+    },
+    "merch": {
+        "title": "Merch Độc Quyền",
+        "description": "Chú ý những người sớm nhận thức! Đắm chìm trong trải nghiệm của <span class='font-bold'>eobo</span> với bộ merch độc quyền - một bộ sưu tập thời trang được chế tác để kỷ niệm sự ra mắt của chúng tôi. Bảo vệ ngay những chiếc đồ giới hạn của bạn!"
+    },
+    "community": {
+        "join_community": "Tham gia cộng đồng sôi động của chúng tôi!"
+    },
+    "footer": {
+        "faq": "Câu Hỏi Thường Gặp",
+        "term_conditions": "Điều Khoản & Điều Kiện",
+        "privacy_policy": "Chính Sách Bảo Mật",
+        "contact_us": "Liên Hệ chúng tôi",
+        "question1": "eobo là gì?",
+        "answer1": "<span class='font-bold'>eobo</span> là một động cơ tiếp thị tự động, được cộng đồng thúc đẩy, xây dựng trên blockchain. Đây là một thử nghiệm trong văn hóa meme cryptocurrency, được chế tác tỉ mỉ để giải trí và tương tác người dùng. Được hình thành để tận dụng những lợi ích cố hữu của blockchain, eobo đang cố gắng phát triển một trải nghiệm cộng đồng động và toàn diện mà không có động cơ tài chính.",
+        "question2": "Làm thế nào để tôi có thể có được token eobo?",
+        "answer2": "eobo có thể được có được thông qua giao dịch trên các sàn hỗ trợ. Hãy theo dõi và theo dõi kênh chính thức của chúng tôi để cập nhật về danh sách, airdrop và phân phối token.",
+        "question3": "Cơ chế đằng sau eobo là gì?",
+        "answer3": "<span class='font-bold'>eobo</span> liên kết mượt mà tài khoản X, Discord, và Telegram của bạn với một ví tiền điện tử, xây dựng giá trị nội tại. Algoritme Heartbeat của chúng tôi tổng hợp tất cả các hành động và phân phối Burn Points, phản ánh sự tham gia của cộng đồng. Càng lớn sự tương tác của bạn và đặt cược, càng nhiều điểm Burn bạn tích luỹ. Nghi lễ hàng tuần của chúng tôi, <span class='font-bold'>Sunday Burnday</span>, liên quan đến việc đốt cháy nguồn cung phối theo đồng bộ với những điểm kiếm được này, tạo ra một chu kỳ tăng giá trị vĩnh viễn.",
+        "question4": "eobo token có an toàn để đầu tư không?",
+        "answer4": "Token tiện ích eobo không được đặt làm cơ hội đầu tư; thay vào đó, nó phục vụ như một token được thiết kế cho mục đích giải trí. Quan trọng là thực hiện nghiên cứu kỹ lưỡng và thực hành giao dịch có trách nhiệm, khi giá trị của token tiện ích eobo có thể bị ảnh hưởng bởi động lực thị trường. Tiền điện tử có thể không được quy định trong khu vực của bạn và giá trị của tiền điện tử có thể giảm cũng như tăng. Thuế có thể áp dụng trong khu vực của bạn.",
+        "question5": "Tôi có thể mua eobo trong pre-sale không?",
+        "answer5": "Không có pre-sale và mọi người sẽ mua eobo với giá thị trường. eobo hoạt động dựa trên một mô hình cộng đồng phi tập trung, không có cá nhân hoặc thực thể cụ thể nào giữ một số lượng token quá mức do không có phân bổ pre-sale. Tiếp cận này được thiết kế để thúc đẩy sự công bằng trong cộng đồng, tạo ra một hệ sinh thái công bằng cho tất cả các thành viên.",
+        "question6": "Ai sở hữu eobo?",
+        "answer6": "Không ai sở hữu hoặc có kiểm soát đầy đủ về nguồn cung eobo. 40% ngay lập tức bị khóa trong hồ chứa thanh khoản cộng đồng, 30% bị khóa trong hợp đồng thưởng staking, và 30% còn lại sẽ bị đốt cháy được bảo vệ trong một hợp đồng đốt cháy chỉ được kiểm soát bởi nhiều nhà đóng góp cốt lõi thông qua ví multisig. Điều này có nghĩa là quyền sở hữu đối với chuyển token đã được hoàn toàn từ bỏ. Nguyên tắc cơ bản của chúng tôi là thúc đẩy sự phồn thịnh của cộng đồng này mà không có động cơ lợi nhuận mạnh mẽ cho các thực thể hoặc cá nhân. Hãy chứng kiến ​​tiềm năng không giới hạn của sáng kiến này và cố gắng đạt được tự chủ tự duy trì."
+    }
+}

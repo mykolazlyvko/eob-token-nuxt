@@ -1,0 +1,91 @@
+body {
+    font-family: $main-font;
+}
+.font-antonia {
+    font-family: Antonio;
+}
+.eobo-btn {
+    // opacity: 0.3;
+    // cursor: not-allowed;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 32px;
+    font-weight: 800;
+    padding: 12px 24px;
+    font-size: 14px;
+    background-color: #ff002e;
+    color: #fff;
+
+    &:hover {
+        opacity: 0.7;
+    }
+    &:disabled {
+        opacity: 0.3;
+        cursor: not-allowed;
+    }
+    @include md {
+        padding: 12px 32px;
+        font-size: 16px;
+    }
+}
+
+.font-nunito {
+    font-family: Nunito;
+}
+
+.eobo-black-btn {
+    // opacity: 0.3;
+    // cursor: not-allowed;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 32px;
+    font-weight: 800;
+    padding: 12px 24px;
+    font-size: 14px;
+    background-color: #000;
+    color: #fff;
+
+    &:hover {
+        opacity: 0.7;
+    }
+    &:disabled {
+        opacity: 0.3;
+        cursor: not-allowed;
+    }
+    @include md {
+        padding: 12px 32px;
+        font-size: 16px;
+    }
+}
+
+.eobo-layout {
+    padding: 16px;
+
+    @include xs {
+        padding: 20px 30px;
+    }
+
+    @include md {
+        padding: 25px 50px;
+    }
+
+    @include lg {
+        padding: 30px 80px;
+    }
+    @include xxl {
+        max-width: 1320px;
+        margin: 0 auto;
+    }
+}
+
+.title-font {
+    font-family: $title-font;
+}
+
+.main-font {
+    font-family: $main-font;
+}
+
+.eobo-text-red {
+    color: #ff002e;
+}
